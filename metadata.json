@@ -1,0 +1,7 @@
+{
+  "name": "General Trias Building Permit Verification & Document Processing Portal",
+  "description": "Document completeness auditing, issue flagging, and applicant & professional registry database for General Trias Cavite building permit applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
